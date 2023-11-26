@@ -1,6 +1,7 @@
 ﻿@page "{attemptId}"
 @model ResultPageModel
 @{
+    var score = 0;
 }
 
 <h1>Congratulations on finishing your quiz! Here's your result</h1>
@@ -13,6 +14,7 @@
         </div>
         @if (response.AnswerId == response.Question.CorrectAnswerId)
         {
+            score++;
             <button type="button" disabled class="btn btn-success">Correct</button>
         }
         else
@@ -21,3 +23,6 @@
         }
     </div>
 }
+<div>
+    <h3>Final Score: @score</h3>
+</div>
