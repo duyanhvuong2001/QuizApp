@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\Coding\WebDevelopment\.NET\QuizApp\QuizApp
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/Coding/WebDevelopment/.NET/QuizApp/QuizApp/Pages/AddQuestion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkUXVlc3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Coding/WebDevelopment/.NET/QuizApp/QuizApp/Pages/AddQuiz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkUXVpei5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Coding/WebDevelopment/.NET/QuizApp/QuizApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,8 +36,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/Coding/WebDevelopment/.NET/QuizApp/QuizApp/Pages/Question.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXVlc3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Coding/WebDevelopment/.NET/QuizApp/QuizApp/Pages/Quiz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXVpei5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Coding/WebDevelopment/.NET/QuizApp/QuizApp/Pages/Quizzes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXVpenplcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Coding/WebDevelopment/.NET/QuizApp/QuizApp/Pages/ResultPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdWx0UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Coding/WebDevelopment/.NET/QuizApp/QuizApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Coding/WebDevelopment/.NET/QuizApp/QuizApp/Pages/TakeQuiz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFrZVF1aXouY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Coding/WebDevelopment/.NET/QuizApp/QuizApp/Pages/_ViewImports.cshtml]
